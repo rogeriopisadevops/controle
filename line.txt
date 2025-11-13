@@ -5,3 +5,4 @@ Linha 01 Funcao ABCD 01 02 03
 >>>>>>> 692b958 (Alteração rafaela)
 
 Alteração por Rogerio
+nova linha
